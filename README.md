@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRvbWtnMGFtZGxlZ3JzYjZtbnh0dzhvZHhucnJpY2N1a2dtemdnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYSSBtDgbbRzq/giphy.gif width="200" />
-  <h1 align="center"> Hi👋, it's SergiNGM :shipit: </h1>
+  <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRvbWtnMGFtZGxlZ3JzYjZtbnh0dzhvZHhucnJpY2N1a2dtemdnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYSSBtDgbbRzq/giphy.gif width="480"/>
+  <h1 align="center"> Hi👋, it's SergiNGM 🤡 </h1>
   <h3 align="center"> A studient of Web Coding from Spain. I like to learn about coding languages and fight with them.</h3>
 </div>
 
