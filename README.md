@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/yYSSBtDgbbRzq" width="480" height="360" frameBorder="0" class="giphy-embed"     
-  allowFullScreen></iframe><p><a href="https://giphy.com/gifs/frustrated-annoyed-programming-yYSSBtDgbbRzq">via GIPHY</a></p>
+  <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRvbWtnMGFtZGxlZ3JzYjZtbnh0dzhvZHhucnJpY2N1a2dtemdnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYSSBtDgbbRzq/giphy.gif width="200" />
   <h1 align="center"> Hi👋, it's SergiNGM :shipit: </h1>
   <h3 align="center"> A studient of Web Coding from Spain. I like to learn about coding languages and fight with them.</h3>
 </div>
