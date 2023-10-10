@@ -3,7 +3,9 @@
   <h1 align="center"> Hi👋, it's SergiNGM :shipit: </h1>
   <h3 align="center"> A studient of Web Coding from Spain. I like to learn about coding languages and fight with them.</h3>
 </div>
+
 ---
+
   ### :metal: About me:
   - :calendar: I daily push my tasks
   - :e-mail: How to reach me **serginmg00@gmail.com**
