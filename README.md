@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/yYSSBtDgbbRzq" width="480" height="240"/>
+  <iframe src="https://giphy.com/embed/yYSSBtDgbbRzq" width="480" height="360" frameBorder="0" class="giphy-embed"     
+  allowFullScreen></iframe><p><a href="https://giphy.com/gifs/frustrated-annoyed-programming-yYSSBtDgbbRzq">via GIPHY</a></p>
   <h1 align="center"> Hi👋, it's SergiNGM :shipit: </h1>
   <h3 align="center"> A studient of Web Coding from Spain. I like to learn about coding languages and fight with them.</h3>
 </div>
