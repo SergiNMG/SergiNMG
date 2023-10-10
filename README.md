@@ -1,4 +1,16 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/yYSSBtDgbbRzq" width="480" />
+  <h1 align="center"> Hi👋, it's SergiNGM :shipit: </h1>
+  <h3 align="center"> A studient of Web Coding from Spain. I like to learn about coding languages and fight with them.</h3>
+</div>
+---
+<div id="body">
+  ### :metal: About me:
+  - :calendar: I daily push my tasks
+  - :e-mail: How to reach me **serginmg00@gmail.com**
+  - :eggplant: I'm currently learning **Java, JS, HTML, CSS, Angular, React**
+</div>
+
 
 <!--
 **SergiNMG/SergiNMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
