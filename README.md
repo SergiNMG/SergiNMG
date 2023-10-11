@@ -9,7 +9,7 @@
   ### :metal: About me:
   - :calendar: I daily push my tasks
   - :e-mail: How to reach me **serginmg00@gmail.com**
-  - :eggplant: I'm currently learning **Java, JS, HTML, CSS, Angular, React**
+  - :eggplant: I'm currently learning **Java, JS, HTML, CSS, Angular and React**
 
 
 <!--
